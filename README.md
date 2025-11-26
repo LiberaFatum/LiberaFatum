@@ -1,28 +1,32 @@
-       .        *       .     *
-                     *
-          * Anima libera  
-        *     Free soul      *
+                                          ▬▬▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬▬▬­­­­­­­­▬▬▬
+                                   ＳＨＵＴ　ＵＰ　ＡＮＤ　ＥＮＪＯＹ　ＴＨＥ　ＮＩＧＨＴＣＯＲＥ
+                                          ▬▬▬▬▬▬▬▬▬▬▬▬▬ஜஜ▬▬▬▬▬▬▬▬▬▬▬­­­­­­­­▬▬▬▬
 
-      .        *       .
-                    *
-         * Ti senti candida  
-          *   You feel candid   
-
-      .       *       .     *
-                     *
-      * Lassù nel cielo volerai  
-         * You'll fly up there in the sky *
-         
-      .        *        .
-                     *
-      * Anima libera  
-        *     Free soul      *
-
-      .     *        .    
-                    *
-      * Sempre mi illumina  
-         * Always illuminating me *
-
+       .        *       .     *                                          ┏━┓╋┏┳━━┳━━━┳┓╋┏┳━━━━┳━━━┳━━━┳­­­­­━━━┳━━━┓
+                     *                                                   ┃┃┗┓┃┣┫┣┫┏━┓┃┃╋┃┃┏┓┏┓┃┏━┓┃┏━┓┃­­­­­┏━┓┃┏━━┛
+          * Anima libera                                                 ┃┏┓┗┛┃┃┃┃┃╋┗┫┗━┛┣┛┃┃┗┫┃╋┗┫┃╋┃┃­­­­­┗━┛┃┗━━┓
+        *     Free soul      *                                           ┃┃┗┓┃┃┃┃┃┃┏━┫┏━┓┃╋┃┃╋┃┃╋┏┫┃╋┃┃­­­­­┏┓┏┫┏━━┛
+                                                                         ┃┃╋┃┃┣┫┣┫┗┻━┃┃╋┃┃╋┃┃╋┃┗━┛┃┗━┛┃­­­­­┃┃┗┫┗━━┓
+      .        *       .                                                 ┗┛╋┗━┻━━┻━━━┻┛╋┗┛╋┗┛╋┗━━━┻━━━┻­­­­­┛┗━┻━━━┛
+                    *                                                    
+         * Ti senti candida                                              
+          *   You feel candid                                            
+                                                                         
+      .       *       .     *                                            
+                     *                                                   
+      * Lassù nel cielo volerai                                          
+         * You'll fly up there in the sky *                              
+                                                                         
+      .        *        .                                                
+                     *                                                   
+      * Anima libera                                                     
+        *     Free soul      *                                           
+                                                                         
+      .     *        .                                                   
+                    *                                                    
+      * Sempre mi illumina                                               
+         * Always illuminating me *                                      
+                                                                         
       .        *       .
                     *
      * Nel buio dei pensieri miei  
