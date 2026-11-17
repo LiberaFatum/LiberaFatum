@@ -26,6 +26,9 @@
 
 </div>
 
+<!-- claude-stats:start -->
+<!-- claude-stats:end -->
+
 ## Open source
 
 | Project | |
