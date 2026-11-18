@@ -52,7 +52,7 @@
   <img alt="Claude Code: ≈ 17.9b tokens in the last year" src="claude-stats/contrib-light.png" width="778">
 </picture>
 
-**129&nbsp;active&nbsp;days** · longest&nbsp;streak&nbsp;**34&nbsp;days** · current&nbsp;streak&nbsp;**4&nbsp;days** · **≈&nbsp;$12.3k**&nbsp;in&nbsp;API&nbsp;prices<sup>*</sup>
+**129&nbsp;active&nbsp;days** · longest&nbsp;streak&nbsp;**34&nbsp;days** · current&nbsp;streak&nbsp;**4&nbsp;days** · **≈&nbsp;$12.4k**&nbsp;in&nbsp;API&nbsp;prices<sup>*</sup>
 
 <sub>* Tokens recomputed at Anthropic's public API list prices. Not an amount paid.</sub>
 
