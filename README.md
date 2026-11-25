@@ -49,10 +49,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="claude-stats/contrib-17w-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="claude-stats/contrib-17w-light.png">
   <source srcset="claude-stats/contrib-17w-light.png">
-  <img alt="Claude Code: ≈ 27.4b tokens in the last year" src="claude-stats/contrib-light.png" width="778">
+  <img alt="Claude Code: ≈ 27.5b tokens in the last year" src="claude-stats/contrib-light.png" width="778">
 </picture>
 
-**169&nbsp;active&nbsp;days** · longest&nbsp;streak&nbsp;**34&nbsp;days** · current&nbsp;streak&nbsp;**0&nbsp;days** · **≈&nbsp;$19.0k**&nbsp;in&nbsp;API&nbsp;prices<sup>*</sup>
+**170&nbsp;active&nbsp;days** · longest&nbsp;streak&nbsp;**34&nbsp;days** · current&nbsp;streak&nbsp;**11&nbsp;days** · **≈&nbsp;$19.1k**&nbsp;in&nbsp;API&nbsp;prices<sup>*</sup>
 
 <sub>* Tokens recomputed at Anthropic's public API list prices. Not an amount paid.</sub>
 
