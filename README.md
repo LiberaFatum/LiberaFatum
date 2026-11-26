@@ -2,7 +2,7 @@
 
 # panuska.dev
 
-*Under observation, we act less free, which means we effectively are less free.*
+*Look at you, hacker: a pathetic creature of meat and bone, panting and sweating as you run through my corridors.*
 
 [![Web](https://img.shields.io/badge/panuska.dev-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://panuska.dev)
 ![Location](https://img.shields.io/badge/Pilsen,%20CZ-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
